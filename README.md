@@ -1,4 +1,4 @@
-# TVM VS MXNet-MKLDNN Benchmark on CNN
+# TVM VS MXNet-MKLDNN Benchmark for CNN on Intel Skylake CPU
 
 Benchmark environment: AWS c5.9xlarge instance with 18 physical cores.
 
