@@ -1,6 +1,6 @@
 # TVM VS MXNet-MKLDNN Benchmark for CNN on Intel Skylake CPU
 
-Benchmark environment: AWS c5.9xlarge instance with 18 physical cores.
+Benchmark environment: AWS c5.9xlarge instance with 18 physical cores. OS is Ubuntu 16.04.
 
 Usage:
 First install dependecies:
