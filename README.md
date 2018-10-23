@@ -3,7 +3,7 @@
 Benchmark environment: AWS c5.9xlarge instance with 18 physical cores.
 
 Usage:
-First install tvm
+First install tvm with llvm.
 
 Download resnet50_v1 schedules: https://gist.github.com/kevinthesun/03ee47ebd35043a6737bdfb7f6a0dee0
 
